@@ -2,6 +2,7 @@
 layout: single
 title: 'Hidrovías para el desarrollo y la integracion suramericana'
 date: '2016-09-04T00:49:00-03:00'
+teaser: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sunset_on_the_Amazon_%287613489930%29.jpg/1200px-Sunset_on_the_Amazon_%287613489930%29.jpg'
 tags:
   - suramerica
   - integracion
