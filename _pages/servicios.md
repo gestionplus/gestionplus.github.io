@@ -4,6 +4,13 @@ title: Servicios
 permalink: /servicios/
 ---
 
+1. [Apoyo a empresas extranjeras en Uruguay y Paraguay](#apoyo-a-empresas-extranjeras-en-uruguay-y-paraguay)
+2. [Reingeniería de procesos](#reingeniería-de-procesos)
+3. [Planificación, análisis y control de gestión económico-financiera](#planificación-análisis-y-control-de-gestión-económico-financiera)
+4. [Planificación y análisis de nuevos proyectos empresariales](#planificación-y-análisis-de-nuevos-proyectos-empresariales)
+5. [Optimización y desarrollo de procesos de comercio exterior](#optimización-y-desarrollo-de-procesos-de-comercio-exterior)
+6. [Asesoramiento y apoyo a proveedores del Estado](#asesoramiento-y-apoyo-a-proveedores-del-estado)
+
 ## 	Apoyo a empresas extranjeras en Uruguay y Paraguay
 
 Sabemos que el ingreso a una región, a un nuevo país, es un desafío para las empresas. Para minimizar riesgos, adaptarse sin sobrecostos a la idiosincrasia del país y lograr una rápida inserción en el mercado, es fundamental contar con apoyo local. Basándonos en este precepto, brindamos a las empresas nuestro apoyo en las siguientes áreas:
@@ -20,8 +27,6 @@ En este contexto, acompañamos a las empresas en su evolución, focalizando nues
 
 ## 	Planificación, análisis y control de gestión económico-financiera
 
-
- 
 En la actualidad, contar con un sistema de trabajo que permita una correcta gestión económico-financiera es vital para cualquier tipo de empresa, independientemente de su tamaño, su competitividad, continuidad y desarrollo dependerá de ello.
 En tal sentido, apoyamos y desarrollamos procesos de planificación, análisis y control de gestión económico-financiera de empresas, basados en sistemas de información sólidos y acorde a las necesidades de las mismas. La propuesta específica consiste en trabajar conjuntamente con la empresa en todas o alguna de las siguientes áreas:
 
