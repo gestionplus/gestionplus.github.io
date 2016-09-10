@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Espacio de Reflexión
 permalink: /reflexion/
 ---
