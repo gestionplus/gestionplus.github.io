@@ -1,3 +1,8 @@
+---
+layout: single
+title: Post It
+permalink: /reflexion/post-it/
+---
 ![post it hacer](https://cloud.githubusercontent.com/assets/659851/18414148/ff5867c8-7795-11e6-823b-14c05c2027c4.jpg)
 ![post it hacer lo mismo](https://cloud.githubusercontent.com/assets/659851/18414153/068dfd78-7796-11e6-87b8-ca1c2d724c0d.jpg)
 ![post it bases](https://cloud.githubusercontent.com/assets/659851/18414154/0ead5242-7796-11e6-8cf8-3fc789916940.jpg)
@@ -71,3 +76,5 @@
 ![succes](https://cloud.githubusercontent.com/assets/659851/18414298/755f86a2-7798-11e6-85a3-74e5376bf9fd.jpg)
 ![keep calm](https://cloud.githubusercontent.com/assets/659851/18414299/77903638-7798-11e6-8b17-850f1534d2db.jpg)
 ![sin ttulo](https://cloud.githubusercontent.com/assets/659851/18414300/7a4d638c-7798-11e6-8dfd-04839370848b.png)
+
+[Volver](../)
