@@ -10,6 +10,6 @@ Esta sección de nuestra web permanecerá siempre “en construcción”, ya que
 Queremos usar este espacio para compartir ideas, frases, extractos de libros, poemas y otras tantas cosas que la vida nos va aportando, y que nos ayudan a ser mejores empresarios y sobre todas las cosas mejores personas.
 
 - [Libros & Papers](/reflexion/libros-y-papers/)
-- [Post It](postit)
+- [Post It](/reflexion/post-it/)
 - [Poemas, Frases y más](poemas-frases-y-mas)
 - [Videoteca](videoteca)
