@@ -1,7 +1,16 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Servicios"
+    url: /servicios/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Especialización"
+    url: /especializacion/
+
+  - title: "Espacio de Reflexión"
+    url: /reflexion/
+
+  - title: "Links"
+    url: /links/
+
+  - title: "Normativa de interes"
+    url: /normativa/
