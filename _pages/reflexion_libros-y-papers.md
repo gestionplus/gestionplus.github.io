@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Libros y Papers
-permalink: /libros-y-papers/
+permalink: /reflexion/libros-y-papers/
 ---
 
 1. [Consciencia](#consciencia)
