@@ -6,15 +6,15 @@ permalink: /libros-y-papers/
 
 1. [Consciencia](#consciencia)
 2. [Libros](#libros)
-  - [Los siete hábitos de la gente altamente efectiva - Stephen R. Covey.](#link)
-  - [13 errores fatales en que incurren los gerentes y como evitarlos - W. Steven Brown](#link)
-  - [Inteligencia Emocional - Daniel Goleman](#link)
-  - [No Más Pálidas-Cuatro Actitudes para el Éxito - Enrique Baliño & Carlos Pacheco](#link)
-  - [El poder de la intención - Wayne W.Dyer](#link)
-  - [¿Quién se ha llevado mi queso? - Dr.Spencer Johnson](#link)
-  - [La Salida de la Crisis - W. Edwards Deming](#link)
+  - [Los siete hábitos de la gente altamente efectiva - Stephen R. Covey.](#los-siete-hbitos-de-la-gente-altamente-efectiva---stephen-r-covey)
+  - [13 errores fatales en que incurren los gerentes y como evitarlos - W. Steven Brown](#errores-fatales-en-que-incurren-los-gerentes-y-como-evitarlos---w-steven-brown)
+  - [Inteligencia Emocional - Daniel Goleman](#inteligencia-emocional---daniel-goleman)
+  - [No Más Pálidas-Cuatro Actitudes para el Éxito - Enrique Baliño & Carlos Pacheco](#no-ms-plidas-cuatro-actitudes-para-el-xito---enrique-balio--carlos-pacheco)
+  - [El poder de la intención - Wayne W.Dyer](#el-poder-de-la-intencin---wayne-wdyer)
+  - [¿Quién se ha llevado mi queso? - Dr.Spencer Johnson](#quin-se-ha-llevado-mi-queso---drspencer-johnson)
+  - [La Salida de la Crisis - W. Edwards Deming](#la-salida-de-la-crisis---w-edwards-deming)
 
-[Volver](/reflexion/)
+[Volver](../reflexion/)
 
 ## Consciencia
 
@@ -86,7 +86,7 @@ Hábito 6: Sinergizar es el resultado de cultivar la habilidad y la actitud de v
  
 Hábito 7: Afilar la sierra (mejora constante) es usar la capacidad que tenemos para renovarnos en las cuatro dimensiones: física, emocional, mental y espiritual. Es lo que nos permite establecer un balance entre todas las dimensiones de nuestro ser, a fin de ser efectivos en los diferentes papeles (roles) que desempeñamos en nuestras vidas.
  
-Fuente: http://goo.gl/XD1Ae
+[Fuente](http://goo.gl/XD1Ae)
  
  
 ### 13 errores fatales en que incurren los gerentes y como evitarlos - W. Steven Brown
@@ -161,7 +161,7 @@ Recuerdan y practican este pensamiento de Thomas A. Edison: "El único lugar don
 En Resumen
 Una definición y cuatro actitudes. Estos cinco elementos son los impulsores del éxito individual y organizacional. Y lo cierto es que no hay excusas para no actuar según esa definición y esas cuatro actitudes. Ello es independiente de las inclemencias  del tiempo y mucho menos del gobierno de turno. Sin embargo, hay personas que las practican y otras que no. Las primeras tienen éxito, las segundas no. Algunos las llevan a la práctica sistemáticamente, todos los días de su vida, en todas las actividades que les toca llevar a cabo. Se puede decir que las “viven”. Y vaya si es clave esto último. Porque enseñamos lo que sabemos, pero contagiamos lo que somos. Las personas exitosas practican lo que predican, lideran mediante el ejemplo.
  
-Fuente: http://goo.gl/aeTxS
+[Fuente](http://goo.gl/aeTxS)
 
 ### El poder de la intención - Wayne W.Dyer
  
