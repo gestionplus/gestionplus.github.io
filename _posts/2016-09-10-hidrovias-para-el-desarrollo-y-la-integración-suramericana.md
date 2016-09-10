@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Hidrovías para el desarrollo y la integracion suramericana'
 date: '2016-09-04T00:49:00-03:00'
 tags:
