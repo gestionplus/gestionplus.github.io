@@ -14,7 +14,7 @@ permalink: /reflexion/libros-y-papers/
   - [¿Quién se ha llevado mi queso? - Dr.Spencer Johnson](#quin-se-ha-llevado-mi-queso---drspencer-johnson)
   - [La Salida de la Crisis - W. Edwards Deming](#la-salida-de-la-crisis---w-edwards-deming)
 
-[Volver](../reflexion/)
+[Volver](../)
 
 ## Consciencia
 
@@ -256,3 +256,5 @@ b. Retiren barreras que le roban a la gente en la gerencia o ingeniería el orgu
 13. Establezcan un programa vigoroso de educación y de auto-mejoramiento para cada quien. Permítanles participar en la elección de las áreas de desarrollo.
 
 14. Pongan a cada quien en la empresa a trabajar en el logro de la transformación. La transformación es el trabajo de todos.
+
+[Volver](../)
