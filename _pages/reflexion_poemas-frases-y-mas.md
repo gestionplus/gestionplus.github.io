@@ -5,17 +5,17 @@ permalink: /reflexion/poemas-frases-y-mas/
 ---
 
 1. [Poemas](#poemas)
-  - [Como va a ser tu dia hoy](#link)
-  - [La vida](#link)
-  - [El día de trabajo](#link)
-  - [Licencia](#link)
-  - [Oración de San Francisco de Asis](#link)
-  - [La Gente que me gusta](#link)
-  - [Antigua Oración Irlandesa](#link)
-  - [Desde los afectos](#link)
-  - [Caminante No Hay Camino ](#link)
-  - [Te Quiero](#link)
-  - [Primavera](#link)
+  - [Como va a ser tu dia hoy](#cmo-va-a-ser-tu-da-hoy--mario-benedetti)
+  - [La vida](#la-vida---madre-teresa-de-calcuta)
+  - [El día de trabajo](#el-da-de-trabajo---carlos-castro-saavedra)
+  - [Licencia](#licencia---mario-benedetti-poemas-de-la-oficina)
+  - [Oración de San Francisco de Asis](#oracin-de-san-francisco-de-asis)
+  - [La Gente que me gusta](#la-gente-que-me-gusta---mario-benedetti-)
+  - [Antigua Oración Irlandesa](#antigua-oracin-irlandesa)
+  - [Desde los afectos](#desde-los-afectos---mario-benedetti)
+  - [Caminante No Hay Camino ](#caminante-no-hay-camino----antonio-machado)
+  - [Te Quiero](#te-quiero---mario-benedetti)
+  - [Primavera](#primavera---pampelmusa)
   
 2. [Frases y Mas](#frases-y-mas)
 
@@ -387,7 +387,7 @@ y en la calle codo a codo
 somos mucho más que dos.
 
 
-Primavera - Pampelmusa
+### Primavera - Pampelmusa
 La lluvia renueva y en su paso lo hace como enojada.
 El danzar de las hojas son cabellos lavados.
 Cómo me gustaría danzar con la fuerza del viento y ser sujetada firmemente entre sus brazos.
@@ -616,6 +616,7 @@ Hasta mañana y buen despertar.
  
  
 ### Y más...
+
  
 **Acerca de la Felicidad - Pilar Sordo**
  
@@ -623,7 +624,9 @@ Es una responsabilidad personal. La gente que es feliz no es que no tenga proble
  
 (Entrevista, Diario El País, 11 de enero 2012)
  
+
 **Calidad**
+
 Si desea obtener resultados en una semana, plante un jardín;
 en diez años plante un arbol;
 durante toda la vida, cultive la calidad.
