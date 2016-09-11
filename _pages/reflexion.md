@@ -11,5 +11,5 @@ Queremos usar este espacio para compartir ideas, frases, extractos de libros, po
 
 - [Libros & Papers](/reflexion/libros-y-papers/)
 - [Post It](/reflexion/post-it/)
-- [Poemas, Frases y más](poemas-frases-y-mas)
+- [Poemas, Frases y más](/reflexion/poemas-frases-y-mas/)
 - [Videoteca](videoteca)
