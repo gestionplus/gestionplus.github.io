@@ -1,3 +1,8 @@
+---
+layout: single
+title: Objetivos
+permalink: /objetivos/
+---
 
 ## 	Visión
 
