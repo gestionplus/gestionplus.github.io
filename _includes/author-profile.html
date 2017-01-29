@@ -21,6 +21,10 @@
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+  <script src="//platform.linkedin.com/in.js" type="text/javascript">
+  lang: en_US
+  </script>
+  <script type="IN/FollowCompany" data-id="2266367" data-counter="right"></script>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
