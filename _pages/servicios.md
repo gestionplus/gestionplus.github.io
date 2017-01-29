@@ -9,7 +9,6 @@ permalink: /servicios/
 3. [Planificación, análisis y control de gestión económico-financiera](#planificacin-anlisis-y-control-de-gestin-econmico-financiera)
 4. [Planificación y análisis de nuevos proyectos empresariales](#planificacin-y-anlisis-de-nuevos-proyectos-empresariales)
 5. [Optimización y desarrollo de procesos de comercio exterior](#optimizacin-y-desarrollo-de-procesos-de-comercio-exterior)
-6. [Asesoramiento y apoyo a proveedores del Estado](#asesoramiento-y-apoyo-a-proveedores-del-estado)
 
 ## 	Apoyo a empresas extranjeras en Uruguay y Paraguay
 
